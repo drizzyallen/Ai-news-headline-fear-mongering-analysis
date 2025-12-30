@@ -2,6 +2,7 @@
 
 # Research:
 
-* Allen Ramirez and Alexis Aguilera  
+## Allen Ramirez and Alexis Aguilera researchers for RAISE-26 
 
 AI- datasets
+
